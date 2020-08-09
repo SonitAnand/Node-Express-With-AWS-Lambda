@@ -1,0 +1,19 @@
+{
+  "name": "Express-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "serverless deploy"
+  },
+  "keywords": [],
+  "author": "Sonit Anand",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.8",
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "uuid": "^8.3.0"
+  }
+}
